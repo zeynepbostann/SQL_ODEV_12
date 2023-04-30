@@ -1,2 +1,0 @@
-# SQL_ODEV_12
-SQL_ODEV_12
